@@ -2,6 +2,9 @@
 
 A jaw-dropping developer portfolio packed with interactive 3D animations, buttery smooth transitions, and a space-themed aesthetic. Not your average portfolio template! This one has a fully interactive 3D keyboard where each keycap is a skill.
 
+<img width="1864" height="821" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/78d049eb-0d1b-42a6-8c2f-f38069646de0" />
+
+
 > **Free to use!** This portfolio is open source. If you use it, a credit/link back would be really appreciated 🙏
 
 
